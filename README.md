@@ -15,16 +15,23 @@ Uses Vivox for clear, low-latency voice communication between players.
 Seamless room creation, joining, and management via Unity Lobby and Relay services.
 
 **Netcode for GameObjects:** 
-Leverages Unity’s official netcode for stable multiplayer synchronization.
+Uses Unitys official netcode for stable multiplayer synchronization.
 
 **Optimized for Gorilla Tag Fan Games:** 
 Designed with Gorilla Tag-style VR multiplayer games in mind, but adaptable to other VR projects.
 
 # Requirements for this package:
 **Unity 2022.x or greater (Most compatible with Unity 6)**
+
 **Unity Multiplayer Services (com.unity.services.multiplayer) v.1.1.6**
+
 **Unity Multiplayer Tools (com.unity.multiplayer.tools) v.2.2.6**
-**Unity Multiplayer Center (com.unity.multiplayer.center)**
+
+**Unity Multiplayer Center (com.unity.multiplayer.center) v.1.0.0**
+
+**Netcode for GameObjects (com.unity.netcode.gameobjects) v.2.4.4**
+
+**Vivox (com.unity.services.vivox) v.16.6.2**
 
 # Installation:
-Open your project, then import these packages:
+Coming soon
