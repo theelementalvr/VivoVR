@@ -15,30 +15,10 @@ Netcode for GameObjects: Leverages Unity’s official netcode for stable multipl
 
 Optimized for Gorilla Tag Fan Games: Designed with Gorilla Tag-style VR multiplayer games in mind, but adaptable to other VR projects.
 
-Getting Started
-Prerequisites
-Unity 2023.x or later
+Requirements for this package:
 
-Unity Multiplayer Services (Lobby, Relay, Netcode for GameObjects)
+Unity 2022.x or greater (Most compatible with Unity 6)
 
-Vivox SDK for Unity
 
-Installation
-Clone or download this repository.
-
-Import the project into Unity.
-
-Setup Unity Multiplayer Services and link your project in the Unity Dashboard.
-
-Import the Vivox SDK and configure your Vivox credentials.
-
-Follow the sample scene to see VivoVR in action.
-
-Usage
-Join a Room: Use VivoVRManager.JoinRoom(string roomName, Action<bool> callback) to join or create a multiplayer room.
-
-Player Setup: The VivoVRPlayer prefab syncs transform, username, color, and cosmetics automatically.
-
-Voice Chat: Integrated voice is active by default when connected to a room.
-
-Refer to the example scenes for detailed setup and customization.
+# Installation:
+Open your project, then import these packages:
