@@ -22,9 +22,15 @@ Designed with Gorilla Tag-style VR multiplayer games in mind, but adaptable to o
 
 # Requirements for this package:
 **Unity 2022.x or greater (Most compatible with Unity 6)**
-**Unity Multiplayer Services (com.unity.services.multiplayer) v.1.1.6**
-**Unity Multiplayer Tools (com.unity.multiplayer.tools) v.2.2.6**
-**Unity Multiplayer Center (com.unity.multiplayer.center)**
 
+**Unity Multiplayer Services (com.unity.services.multiplayer) v.1.1.6**
+
+**Unity Multiplayer Tools (com.unity.multiplayer.tools) v.2.2.6**
+
+**Unity Multiplayer Center (com.unity.multiplayer.center) 1.0.0**
+
+**Vivox (com.unity.services.vivox) 16.6.2**
+
+**Netcode for GameObjects (com.unity.netcode.gameobjects) 2.4.4**
 # Installation:
 Open your project, then import these packages:
