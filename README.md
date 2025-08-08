@@ -5,6 +5,9 @@
 **Player Synchronization:** 
 Real-time syncing of player movements, rotations, and actions.
 
+**Scene Synchronization**
+Unlike PhotonVR when changing scenes and you join another lobby, VivoVR puts you in the same lobby!
+
 **Custom Player Properties:** 
 Supports usernames, player colors, cosmetics, and other customizable properties.
 
