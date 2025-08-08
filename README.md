@@ -1,5 +1,5 @@
 # VivoVR
-**VivoVR is a multiplayer VR framework built on Unity Multiplayer Services, designed to provide a smooth, scalable, and feature-rich networking solution tailored for Gorilla Tag fan games. It aims to be a modern alternative to PhotonVR, offering advanced integration, full player synchronization, and built-in voice chat support with Vivox.**
+**VivoVR is a multiplayer VR framework built on Unity Multiplayer Services, designed to provide a smooth, scalable, and feature-rich networking solution designed for Gorilla Tag fan games. It aims to be a modern alternative to PhotonVR, offering advanced integration, full player synchronization, and built-in voice chat support with Vivox.**
 
 # Features:
 **Player Synchronization:** 
